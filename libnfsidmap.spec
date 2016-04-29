@@ -4,7 +4,7 @@
 #
 Name     : libnfsidmap
 Version  : 0.25
-Release  : 3
+Release  : 4
 URL      : http://www.citi.umich.edu/projects/nfsv4/linux/libnfsidmap/libnfsidmap-0.25.tar.gz
 Source0  : http://www.citi.umich.edu/projects/nfsv4/linux/libnfsidmap/libnfsidmap-0.25.tar.gz
 Summary  : Library that handles mapping between names and ids for NFSv4.
